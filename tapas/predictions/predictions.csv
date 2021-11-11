@@ -1,0 +1,708 @@
+,Unnamed: 0,question,answer,predictions
+0,0,What is the highest Total_Energy_Usage_YTD?,6999351.86,['5285610.38']
+1,1,What is the lowest Total_Energy_Usage_YTD?,3016220.58,[]
+2,2,What is the sum of Total_Energy_Usage_YTD?,467176387.40000004,110330538.17999999
+3,3,What is the average of Total_Energy_Usage_YTD?,5023402.02,5015024.462727272
+4,4,Which building has highest Total_Energy_Usage_YTD?,LV_Incoming_BEN_AS2.AS1_Main_Switch,['LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh']
+5,5,Which building has lowest Total_Energy_Usage_YTD?,LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh,['LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh']
+6,6,Number of buildings more than 6513086 of Total_Energy_Usage_YTD?,5,2
+7,7,What are the buildings more than 6513086 of Total_Energy_Usage_YTD?,"['Terraces - T11', 'Terraces - T13', 'LV_Incoming_BEN_AS2.AS1_Main_Switch', 'Beth Gleeson Building', 'Indoor Sports Centre']","['Terraces - T11', 'Terraces - T13']"
+8,8,What is the highest Total_Energy_Usage_MTD?,29624.67,['21404.18']
+9,9,What is the lowest Total_Energy_Usage_MTD?,12288.87,[]
+10,10,What is the sum of Total_Energy_Usage_MTD?,1908852.29,23
+11,11,What is the average of Total_Energy_Usage_MTD?,20525.29,18579.472173913044
+12,12,Which building has highest Total_Energy_Usage_MTD?,Childrens Centre,['LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh']
+13,13,Which building has lowest Total_Energy_Usage_MTD?,Agora East Building,['LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh']
+14,14,Number of buildings more than 28315 of Total_Energy_Usage_MTD?,5,15
+15,15,What are the buildings more than 28315 of Total_Energy_Usage_MTD?,"['Terraces - NR7', 'Animal and Glass Houses', 'Childrens Centre', 'Health Sciences Buildings 1 2 3', 'Hooper Szental Building']","['LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh', 'Terraces - NR7']"
+16,16,What is the highest Total_Energy_Usage_WTD?,11953.11,['19720.0']
+17,17,What is the lowest Total_Energy_Usage_WTD?,4039.28,[]
+18,18,What is the sum of Total_Energy_Usage_WTD?,785071.05,23
+19,19,What is the average of Total_Energy_Usage_WTD?,8441.62,4943543.991304347
+20,20,Which building has highest Total_Energy_Usage_WTD?,Social Sciences Building,['LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh']
+21,21,Which building has lowest Total_Energy_Usage_WTD?,LIMS2 Building,['LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh']
+22,22,Number of buildings more than 11549 of Total_Energy_Usage_WTD?,5,22
+23,23,What are the buildings more than 11549 of Total_Energy_Usage_WTD?,"['LV_Incoming_TER_NR_Main_Switch_Real_Energy_Into_the_Load_kWh', 'Mont Park', 'John Scott Meeting House', 'LV_Incoming_SHS.SHS_Main_Supply', 'Social Sciences Building']",['LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh']
+24,24,What is the highest Cost_Difference_with_Baseline?,59950.69,['56266.43']
+25,25,What is the lowest Cost_Difference_with_Baseline?,40056.61,['40056.61']
+26,26,What is the sum of Cost_Difference_with_Baseline?,4618215.029999998,80156.78
+27,27,What is the average of Cost_Difference_with_Baseline?,49658.23,50797.48588235294
+28,28,Which building has highest Cost_Difference_with_Baseline?,Menzies College Main Supply,['LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh']
+29,29,Which building has lowest Cost_Difference_with_Baseline?,Terraces - NR7,['Terraces - NR7']
+30,30,Number of buildings more than 59266 of Cost_Difference_with_Baseline?,5,1
+31,31,What are the buildings more than 59266 of Cost_Difference_with_Baseline?,"['LV_Incoming_TER_EMB_Main_Switch_Real_Energy_Into_the_Load_kWh', 'MC Public Lighting', 'Hooper Szental Building', 'Menzies College Main Supply', 'Peribolos East Building']",['LV_Incoming_TER_EMB_Main_Switch_Real_Energy_Into_the_Load_kWh']
+32,32,What is the highest Estimated_Total_Cost?,598967.1,['598967.1']
+33,33,What is the lowest Estimated_Total_Cost?,308300.88,['460625.54']
+34,34,What is the sum of Estimated_Total_Cost?,42146706.84,10878768.999999998
+35,35,What is the average of Estimated_Total_Cost?,453190.4,472989.9565217391
+36,36,Which building has highest Estimated_Total_Cost?,LV_Incoming_TER_EM_Main_Switch_Real_Energy_Into_the_Load_kWh,['LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh']
+37,37,Which building has lowest Estimated_Total_Cost?,BS2 Building,['Terraces - NR7']
+38,38,Number of buildings more than 580843 of Estimated_Total_Cost?,5,2
+39,39,What are the buildings more than 580843 of Estimated_Total_Cost?,"['LV_Incoming_TER_EM_Main_Switch_Real_Energy_Into_the_Load_kWh', 'Terraces - T13', 'MC Public Lighting', 'Albury-Wodonga - B3', 'Martin Building']",['Terraces - T13']
+40,40,What is the highest CO2_Emission_YTD?,993.36,['826.74']
+41,41,What is the lowest CO2_Emission_YTD?,503.53,[]
+42,42,What is the sum of CO2_Emission_YTD?,70724.51000000001,8103.5999999999985
+43,43,What is the average of CO2_Emission_YTD?,760.48,694.671
+44,44,Which building has highest CO2_Emission_YTD?,LV_Incoming_MIL.BGR_Main_Supply,['LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh']
+45,45,Which building has lowest CO2_Emission_YTD?,Wildlife Reserve,['LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh']
+46,46,Number of buildings more than 979 of CO2_Emission_YTD?,5,1
+47,47,What are the buildings more than 979 of CO2_Emission_YTD?,"['Mont Park', 'LV_Incoming_BEN_AS2.AS2_Main_Switch', 'LV_Incoming_WOD_SMSB.AW-1_Main_Supply', 'LV_Incoming_MIL.BGR_Main_Supply', 'SFP2']",['LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh']
+48,48,What is the highest Maximum_Peak_Energy_Consumption?,4999.4,['4999.4']
+49,49,What is the lowest Maximum_Peak_Energy_Consumption?,3024.44,['4635.97']
+50,50,What is the sum of Maximum_Peak_Energy_Consumption?,370329.6699999999,['4999.4']
+51,51,What is the average of Maximum_Peak_Energy_Consumption?,3982.04,4179.856818181818
+52,52,Which building has highest Maximum_Peak_Energy_Consumption?,Terraces - T7,['Terraces - T7']
+53,53,Which building has lowest Maximum_Peak_Energy_Consumption?,Albury-Wodonga - B8,['LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh']
+54,54,Number of buildings more than 4938 of Maximum_Peak_Energy_Consumption?,6,3
+55,55,What are the buildings more than 4938 of Maximum_Peak_Energy_Consumption?,"['LV_Incoming_TER_EMB_Main_Switch_Real_Energy_Into_the_Load_kWh', 'Terraces - NR8', 'Terraces - T7', 'Health Sciences Clinic', 'John Scott Meeting House', 'Peribolos West Building']","['LV_Incoming_TER_EMB_Main_Switch_Real_Energy_Into_the_Load_kWh', 'Terraces - NR8', 'Terraces - T7']"
+56,56,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh?,5285610.38,221904.43
+57,57,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh?,19720.0,13
+58,58,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh?,8624.73,221904.43
+59,59,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh?,56266.43,55106.547999999995
+60,60,What is the Estimated_Total_Cost of LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh?,547076.66,479838.79692307697
+61,61,What is the CO2_Emission_YTD of LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh?,826.74,['826.74']
+62,62,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh?,3412.2,3809.996
+63,63,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_EM_Main_Switch_Real_Energy_Into_the_Load_kWh?,3640918.23,13
+64,64,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_EM_Main_Switch_Real_Energy_Into_the_Load_kWh?,21372.05,13
+65,65,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_EM_Main_Switch_Real_Energy_Into_the_Load_kWh?,6622.18,13
+66,66,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_EM_Main_Switch_Real_Energy_Into_the_Load_kWh?,59056.34,55106.547999999995
+67,67,What is the Estimated_Total_Cost of LV_Incoming_TER_EM_Main_Switch_Real_Energy_Into_the_Load_kWh?,598967.1,434725.60500000004
+68,68,What is the CO2_Emission_YTD of LV_Incoming_TER_EM_Main_Switch_Real_Energy_Into_the_Load_kWh?,522.28,623.7166666666667
+69,69,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_EM_Main_Switch_Real_Energy_Into_the_Load_kWh?,3499.99,3993.147692307692
+70,70,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_EMA_Main_Switch_Real_Energy_Into_the_Load_kWh?,6440644.15,132158.69999999998
+71,71,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_EMA_Main_Switch_Real_Energy_Into_the_Load_kWh?,22857.43,12
+72,72,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_EMA_Main_Switch_Real_Energy_Into_the_Load_kWh?,7052.85,132158.69999999998
+73,73,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_EMA_Main_Switch_Real_Energy_Into_the_Load_kWh?,53499.3,5
+74,74,What is the Estimated_Total_Cost of LV_Incoming_TER_EMA_Main_Switch_Real_Energy_Into_the_Load_kWh?,437049.35,434725.60500000004
+75,75,What is the CO2_Emission_YTD of LV_Incoming_TER_EMA_Main_Switch_Real_Energy_Into_the_Load_kWh?,842.93,1349.02
+76,76,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_EMA_Main_Switch_Real_Energy_Into_the_Load_kWh?,3567.24,3993.147692307692
+77,77,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_EMB_Main_Switch_Real_Energy_Into_the_Load_kWh?,5647385.28,132158.69999999998
+78,78,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_EMB_Main_Switch_Real_Energy_Into_the_Load_kWh?,14393.61,11
+79,79,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_EMB_Main_Switch_Real_Energy_Into_the_Load_kWh?,10142.7,132158.69999999998
+80,80,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_EMB_Main_Switch_Real_Energy_Into_the_Load_kWh?,59387.76,5
+81,81,What is the Estimated_Total_Cost of LV_Incoming_TER_EMB_Main_Switch_Real_Energy_Into_the_Load_kWh?,483998.05,434725.60500000004
+82,82,What is the CO2_Emission_YTD of LV_Incoming_TER_EMB_Main_Switch_Real_Energy_Into_the_Load_kWh?,522.13,674.51
+83,83,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_EMB_Main_Switch_Real_Energy_Into_the_Load_kWh?,4964.83,3993.147692307692
+84,84,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh?,3016220.58,132158.69999999998
+85,85,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh?,14411.51,12
+86,86,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh?,11528.02,132158.69999999998
+87,87,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh?,47322.91,5
+88,88,What is the Estimated_Total_Cost of LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh?,569458.87,473356.7766666667
+89,89,What is the CO2_Emission_YTD of LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh?,657.18,1349.02
+90,90,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh?,3605.72,3993.147692307692
+91,91,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_EMD_Main_Switch_Real_Energy_Into_the_Load_kWh?,5195928.74,97283.81
+92,92,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_EMD_Main_Switch_Real_Energy_Into_the_Load_kWh?,19848.56,146552.31
+93,93,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_EMD_Main_Switch_Real_Energy_Into_the_Load_kWh?,4519.95,109948.45999999999
+94,94,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_EMD_Main_Switch_Real_Energy_Into_the_Load_kWh?,56881.36,5
+95,95,What is the Estimated_Total_Cost of LV_Incoming_TER_EMD_Main_Switch_Real_Energy_Into_the_Load_kWh?,346925.68,434725.60500000004
+96,96,What is the CO2_Emission_YTD of LV_Incoming_TER_EMD_Main_Switch_Real_Energy_Into_the_Load_kWh?,612.15,['826.74']
+97,97,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_EMD_Main_Switch_Real_Energy_Into_the_Load_kWh?,4169.09,3993.147692307692
+98,98,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_EME_Main_Switch_Real_Energy_Into_the_Load_kWh?,4651480.83,70749.71
+99,99,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_EME_Main_Switch_Real_Energy_Into_the_Load_kWh?,12664.65,11
+100,100,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_EME_Main_Switch_Real_Energy_Into_the_Load_kWh?,7972.83,109948.45999999999
+101,101,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_EME_Main_Switch_Real_Energy_Into_the_Load_kWh?,53157.82,5
+102,102,What is the Estimated_Total_Cost of LV_Incoming_TER_EME_Main_Switch_Real_Energy_Into_the_Load_kWh?,460045.12,434725.60500000004
+103,103,What is the CO2_Emission_YTD of LV_Incoming_TER_EME_Main_Switch_Real_Energy_Into_the_Load_kWh?,927.56,['826.74']
+104,104,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_EME_Main_Switch_Real_Energy_Into_the_Load_kWh?,4635.97,3993.147692307692
+105,105,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_MDB_LT_GSM_Main_Switch_Real_Energy_Into_the_Load_kWh?,3598752.54,90469.70999999999
+106,106,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_MDB_LT_GSM_Main_Switch_Real_Energy_Into_the_Load_kWh?,22210.24,42098.770000000004
+107,107,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_MDB_LT_GSM_Main_Switch_Real_Energy_Into_the_Load_kWh?,6993.4,151878.69999999998
+108,108,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_MDB_LT_GSM_Main_Switch_Real_Energy_Into_the_Load_kWh?,42258.31,57661.384999999995
+109,109,What is the Estimated_Total_Cost of LV_Incoming_TER_MDB_LT_GSM_Main_Switch_Real_Energy_Into_the_Load_kWh?,532653.81,1738902.4200000002
+110,110,What is the CO2_Emission_YTD of LV_Incoming_TER_MDB_LT_GSM_Main_Switch_Real_Energy_Into_the_Load_kWh?,548.3,['826.74']
+111,111,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_MDB_LT_GSM_Main_Switch_Real_Energy_Into_the_Load_kWh?,4202.61,['3412.2']
+112,112,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_NR_Main_Switch_Real_Energy_Into_the_Load_kWh?,3665454.98,13
+113,113,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_NR_Main_Switch_Real_Energy_Into_the_Load_kWh?,26534.1,12
+114,114,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_NR_Main_Switch_Real_Energy_Into_the_Load_kWh?,11581.55,13
+115,115,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_NR_Main_Switch_Real_Energy_Into_the_Load_kWh?,48281.62,55106.547999999995
+116,116,What is the Estimated_Total_Cost of LV_Incoming_TER_NR_Main_Switch_Real_Energy_Into_the_Load_kWh?,373644.56,434725.60500000004
+117,117,What is the CO2_Emission_YTD of LV_Incoming_TER_NR_Main_Switch_Real_Energy_Into_the_Load_kWh?,637.35,674.51
+118,118,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_NR_Main_Switch_Real_Energy_Into_the_Load_kWh?,3866.46,3978.4858333333327
+119,119,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_NR1_Main_Switch_Real_Energy_Into_the_Load_kWh?,5469011.08,221904.43
+120,120,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_NR1_Main_Switch_Real_Energy_Into_the_Load_kWh?,15212.29,13
+121,121,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_NR1_Main_Switch_Real_Energy_Into_the_Load_kWh?,4955.86,221904.43
+122,122,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_NR1_Main_Switch_Real_Energy_Into_the_Load_kWh?,43298.76,55106.547999999995
+123,123,What is the Estimated_Total_Cost of LV_Incoming_TER_NR1_Main_Switch_Real_Energy_Into_the_Load_kWh?,494617.45,479838.79692307697
+124,124,What is the CO2_Emission_YTD of LV_Incoming_TER_NR1_Main_Switch_Real_Energy_Into_the_Load_kWh?,910.53,['826.74']
+125,125,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_NR1_Main_Switch_Real_Energy_Into_the_Load_kWh?,3911.47,3959.0066666666667
+126,126,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_NR2_Main_Switch_Real_Energy_Into_the_Load_kWh?,6110045.56,221904.43
+127,127,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_NR2_Main_Switch_Real_Energy_Into_the_Load_kWh?,20642.4,13
+128,128,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_NR2_Main_Switch_Real_Energy_Into_the_Load_kWh?,6780.57,221904.43
+129,129,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_NR2_Main_Switch_Real_Energy_Into_the_Load_kWh?,40100.17,55106.547999999995
+130,130,What is the Estimated_Total_Cost of LV_Incoming_TER_NR2_Main_Switch_Real_Energy_Into_the_Load_kWh?,513771.96,479838.79692307697
+131,131,What is the CO2_Emission_YTD of LV_Incoming_TER_NR2_Main_Switch_Real_Energy_Into_the_Load_kWh?,665.83,['826.74']
+132,132,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_NR2_Main_Switch_Real_Energy_Into_the_Load_kWh?,3869.42,3959.0066666666667
+133,133,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_NR3_Main_Switch_Real_Energy_Into_the_Load_kWh?,4277692.95,221904.43
+134,134,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_NR3_Main_Switch_Real_Energy_Into_the_Load_kWh?,13438.65,13
+135,135,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_NR3_Main_Switch_Real_Energy_Into_the_Load_kWh?,7584.45,221904.43
+136,136,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_NR3_Main_Switch_Real_Energy_Into_the_Load_kWh?,47811.74,55106.547999999995
+137,137,What is the Estimated_Total_Cost of LV_Incoming_TER_NR3_Main_Switch_Real_Energy_Into_the_Load_kWh?,560863.66,484555.9109090909
+138,138,What is the CO2_Emission_YTD of LV_Incoming_TER_NR3_Main_Switch_Real_Energy_Into_the_Load_kWh?,836.68,['826.74']
+139,139,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_NR3_Main_Switch_Real_Energy_Into_the_Load_kWh?,4165.7,3959.0066666666667
+140,140,What is the Total_Energy_Usage_YTD of LV_Incoming_TER_NR4_Main_Switch_Real_Energy_Into_the_Load_kWh?,3965632.97,221904.43
+141,141,What is the Total_Energy_Usage_MTD of LV_Incoming_TER_NR4_Main_Switch_Real_Energy_Into_the_Load_kWh?,21456.37,13
+142,142,What is the Total_Energy_Usage_WTD of LV_Incoming_TER_NR4_Main_Switch_Real_Energy_Into_the_Load_kWh?,11284.27,221904.43
+143,143,What is the Cost_Difference_with_Baseline of LV_Incoming_TER_NR4_Main_Switch_Real_Energy_Into_the_Load_kWh?,52042.1,55106.547999999995
+144,144,What is the Estimated_Total_Cost of LV_Incoming_TER_NR4_Main_Switch_Real_Energy_Into_the_Load_kWh?,318832.09,479838.79692307697
+145,145,What is the CO2_Emission_YTD of LV_Incoming_TER_NR4_Main_Switch_Real_Energy_Into_the_Load_kWh?,744.69,['826.74']
+146,146,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_TER_NR4_Main_Switch_Real_Energy_Into_the_Load_kWh?,4040.22,3959.0066666666667
+147,147,What is the Total_Energy_Usage_YTD of Terraces - NR6?,4845765.05,161161.82
+148,148,What is the Total_Energy_Usage_MTD of Terraces - NR6?,19220.34,9
+149,149,What is the Total_Energy_Usage_WTD of Terraces - NR6?,7363.48,161161.82
+150,150,What is the Cost_Difference_with_Baseline of Terraces - NR6?,50773.34,[]
+151,151,What is the Estimated_Total_Cost of Terraces - NR6?,446968.73,4640864.64
+152,152,What is the CO2_Emission_YTD of Terraces - NR6?,582.9,7041.21
+153,153,What is the Maximum_Peak_Energy_Consumption of Terraces - NR6?,4169.87,25807.690000000002
+154,154,What is the Total_Energy_Usage_YTD of Terraces - NR7?,4765387.27,147204.2
+155,155,What is the Total_Energy_Usage_MTD of Terraces - NR7?,29436.21,9
+156,156,What is the Total_Energy_Usage_WTD of Terraces - NR7?,7321.39,147204.2
+157,157,What is the Cost_Difference_with_Baseline of Terraces - NR7?,40056.61,[]
+158,158,What is the Estimated_Total_Cost of Terraces - NR7?,460625.54,4640864.64
+159,159,What is the CO2_Emission_YTD of Terraces - NR7?,525.29,7041.21
+160,160,What is the Maximum_Peak_Energy_Consumption of Terraces - NR7?,3070.64,21569.47
+161,161,What is the Total_Energy_Usage_YTD of Terraces - NR8?,3370973.62,147204.2
+162,162,What is the Total_Energy_Usage_MTD of Terraces - NR8?,13957.62,9
+163,163,What is the Total_Energy_Usage_WTD of Terraces - NR8?,7632.63,161161.82
+164,164,What is the Cost_Difference_with_Baseline of Terraces - NR8?,49701.11,[]
+165,165,What is the Estimated_Total_Cost of Terraces - NR8?,437592.09,4640864.64
+166,166,What is the CO2_Emission_YTD of Terraces - NR8?,718.26,7041.21
+167,167,What is the Maximum_Peak_Energy_Consumption of Terraces - NR8?,4985.38,25807.690000000002
+168,168,What is the Total_Energy_Usage_YTD of Terraces - T10?,5004448.74,161161.82
+169,169,What is the Total_Energy_Usage_MTD of Terraces - T10?,20047.57,10
+170,170,What is the Total_Energy_Usage_WTD of Terraces - T10?,9809.72,17906.86888888889
+171,171,What is the Cost_Difference_with_Baseline of Terraces - T10?,53957.41,10
+172,172,What is the Estimated_Total_Cost of Terraces - T10?,426993.18,10
+173,173,What is the CO2_Emission_YTD of Terraces - T10?,824.76,7041.21
+174,174,What is the Maximum_Peak_Energy_Consumption of Terraces - T10?,4795.88,40556.94
+175,175,What is the Total_Energy_Usage_YTD of Terraces - T11?,6638162.39,161161.82
+176,176,What is the Total_Energy_Usage_MTD of Terraces - T11?,14765.29,10
+177,177,What is the Total_Energy_Usage_WTD of Terraces - T11?,5898.74,5217309.595555555
+178,178,What is the Cost_Difference_with_Baseline of Terraces - T11?,53740.4,[]
+179,179,What is the Estimated_Total_Cost of Terraces - T11?,492780.07,10
+180,180,What is the CO2_Emission_YTD of Terraces - T11?,794.26,4669.57
+181,181,What is the Maximum_Peak_Energy_Consumption of Terraces - T11?,4238.22,30793.07
+182,182,What is the Total_Energy_Usage_YTD of Terraces - T12?,6317692.78,161161.82
+183,183,What is the Total_Energy_Usage_MTD of Terraces - T12?,20620.97,9
+184,184,What is the Total_Energy_Usage_WTD of Terraces - T12?,10460.71,17906.86888888889
+185,185,What is the Cost_Difference_with_Baseline of Terraces - T12?,48707.13,9
+186,186,What is the Estimated_Total_Cost of Terraces - T12?,557653.67,10
+187,187,What is the CO2_Emission_YTD of Terraces - T12?,859.12,7041.21
+188,188,What is the Maximum_Peak_Energy_Consumption of Terraces - T12?,4924.71,16773.59
+189,189,What is the Total_Energy_Usage_YTD of Terraces - T13?,6554725.98,161161.82
+190,190,What is the Total_Energy_Usage_MTD of Terraces - T13?,12832.25,9
+191,191,What is the Total_Energy_Usage_WTD of Terraces - T13?,11304.79,17906.86888888889
+192,192,What is the Cost_Difference_with_Baseline of Terraces - T13?,59247.58,[]
+193,193,What is the Estimated_Total_Cost of Terraces - T13?,594395.81,464086.464
+194,194,What is the CO2_Emission_YTD of Terraces - T13?,642.74,7041.21
+195,195,What is the Maximum_Peak_Energy_Consumption of Terraces - T13?,4533.68,40556.94
+196,196,What is the Total_Energy_Usage_YTD of Terraces - T14?,5680005.27,161161.82
+197,197,What is the Total_Energy_Usage_MTD of Terraces - T14?,14542.92,10
+198,198,What is the Total_Energy_Usage_WTD of Terraces - T14?,8761.06,17906.86888888889
+199,199,What is the Cost_Difference_with_Baseline of Terraces - T14?,43839.47,9
+200,200,What is the Estimated_Total_Cost of Terraces - T14?,404960.61,10
+201,201,What is the CO2_Emission_YTD of Terraces - T14?,539.87,7041.21
+202,202,What is the Maximum_Peak_Energy_Consumption of Terraces - T14?,4839.16,4464.7225
+203,203,What is the Total_Energy_Usage_YTD of Terraces - T7?,3778625.26,147204.2
+204,204,What is the Total_Energy_Usage_MTD of Terraces - T7?,15738.65,9
+205,205,What is the Total_Energy_Usage_WTD of Terraces - T7?,4768.01,18083.318571428572
+206,206,What is the Cost_Difference_with_Baseline of Terraces - T7?,57750.68,9
+207,207,What is the Estimated_Total_Cost of Terraces - T7?,439127.99,464086.464
+208,208,What is the CO2_Emission_YTD of Terraces - T7?,871.85,7041.21
+209,209,What is the Maximum_Peak_Energy_Consumption of Terraces - T7?,4999.4,16773.59
+210,210,What is the Total_Energy_Usage_YTD of Terraces - T8?,5780947.17,161161.82
+211,211,What is the Total_Energy_Usage_MTD of Terraces - T8?,21404.18,9
+212,212,What is the Total_Energy_Usage_WTD of Terraces - T8?,7387.89,161161.82
+213,213,What is the Cost_Difference_with_Baseline of Terraces - T8?,51110.4,10
+214,214,What is the Estimated_Total_Cost of Terraces - T8?,379766.95,10
+215,215,What is the CO2_Emission_YTD of Terraces - T8?,682.16,7041.21
+216,216,What is the Maximum_Peak_Energy_Consumption of Terraces - T8?,4328.15,40556.94
+217,217,What is the Total_Energy_Usage_YTD of Terraces - T9?,5509067.05,147204.2
+218,218,What is the Total_Energy_Usage_MTD of Terraces - T9?,23288.32,9
+219,219,What is the Total_Energy_Usage_WTD of Terraces - T9?,5676.75,18400.525
+220,220,What is the Cost_Difference_with_Baseline of Terraces - T9?,57498.58,9
+221,221,What is the Estimated_Total_Cost of Terraces - T9?,561401.23,4640864.64
+222,222,What is the CO2_Emission_YTD of Terraces - T9?,826.13,7041.21
+223,223,What is the Maximum_Peak_Energy_Consumption of Terraces - T9?,4219.55,40556.94
+224,224,What is the Total_Energy_Usage_YTD of HS1 Public Lighting?,3280690.69,245428.6
+225,225,What is the Total_Energy_Usage_MTD of HS1 Public Lighting?,19623.33,86595325.34
+226,226,What is the Total_Energy_Usage_WTD of HS1 Public Lighting?,4712.18,300435.16
+227,227,What is the Cost_Difference_with_Baseline of HS1 Public Lighting?,45093.96,4
+228,228,What is the Estimated_Total_Cost of HS1 Public Lighting?,437062.13,6798572.95
+229,229,What is the CO2_Emission_YTD of HS1 Public Lighting?,879.7,['826.74']
+230,230,What is the Maximum_Peak_Energy_Consumption of HS1 Public Lighting?,3110.5,['4999.4']
+231,231,What is the Total_Energy_Usage_YTD of L Public Lighting?,5515366.16,16
+232,232,What is the Total_Energy_Usage_MTD of L Public Lighting?,17084.72,22
+233,233,What is the Total_Energy_Usage_WTD of L Public Lighting?,9560.55,22
+234,234,What is the Cost_Difference_with_Baseline of L Public Lighting?,50150.59,54215.22666666666
+235,235,What is the Estimated_Total_Cost of L Public Lighting?,379086.62,6237904.36
+236,236,What is the CO2_Emission_YTD of L Public Lighting?,720.82,['826.74']
+237,237,What is the Maximum_Peak_Energy_Consumption of L Public Lighting?,4013.01,['3412.2']
+238,238,What is the Total_Energy_Usage_YTD of ISC Public Lighting?,4366103.48,['14411.51']
+239,239,What is the Total_Energy_Usage_MTD of ISC Public Lighting?,25077.84,23
+240,240,What is the Total_Energy_Usage_WTD of ISC Public Lighting?,7860.77,['19720.0']
+241,241,What is the Cost_Difference_with_Baseline of ISC Public Lighting?,49540.16,57661.384999999995
+242,242,What is the Estimated_Total_Cost of ISC Public Lighting?,443973.41,10441176.91
+243,243,What is the CO2_Emission_YTD of ISC Public Lighting?,844.82,['826.74']
+244,244,What is the Maximum_Peak_Energy_Consumption of ISC Public Lighting?,3893.53,['4999.4']
+245,245,What is the Total_Energy_Usage_YTD of MC Public Lighting?,5879390.76,23
+246,246,What is the Total_Energy_Usage_MTD of MC Public Lighting?,26419.75,23
+247,247,What is the Total_Energy_Usage_WTD of MC Public Lighting?,7242.06,23
+248,248,What is the Cost_Difference_with_Baseline of MC Public Lighting?,59294.52,155379.38
+249,249,What is the Estimated_Total_Cost of MC Public Lighting?,597704.82,10878768.999999998
+250,250,What is the CO2_Emission_YTD of MC Public Lighting?,860.33,['826.74']
+251,251,What is the Maximum_Peak_Energy_Consumption of MC Public Lighting?,4587.08,['4999.4']
+252,252,What is the Total_Energy_Usage_YTD of TC Public Lighting?,3261954.59,23
+253,253,What is the Total_Energy_Usage_MTD of TC Public Lighting?,27251.16,23
+254,254,What is the Total_Energy_Usage_WTD of TC Public Lighting?,10691.66,23
+255,255,What is the Cost_Difference_with_Baseline of TC Public Lighting?,46553.31,155379.38
+256,256,What is the Estimated_Total_Cost of TC Public Lighting?,396629.17,10878768.999999998
+257,257,What is the CO2_Emission_YTD of TC Public Lighting?,870.22,['826.74']
+258,258,What is the Maximum_Peak_Energy_Consumption of TC Public Lighting?,3032.64,['4999.4']
+259,259,What is the Total_Energy_Usage_YTD of U Public Lighting?,5441225.15,23
+260,260,What is the Total_Energy_Usage_MTD of U Public Lighting?,17081.8,23
+261,261,What is the Total_Energy_Usage_WTD of U Public Lighting?,5490.92,23
+262,262,What is the Cost_Difference_with_Baseline of U Public Lighting?,41909.06,51793.12666666667
+263,263,What is the Estimated_Total_Cost of U Public Lighting?,537171.82,['460625.54']
+264,264,What is the CO2_Emission_YTD of U Public Lighting?,967.87,['826.74']
+265,265,What is the Maximum_Peak_Energy_Consumption of U Public Lighting?,3337.06,['4999.4']
+266,266,What is the Total_Energy_Usage_YTD of Mont Park?,3879505.35,10
+267,267,What is the Total_Energy_Usage_MTD of Mont Park?,25408.43,97335168.05
+268,268,What is the Total_Energy_Usage_WTD of Mont Park?,11609.15,57567217.39999999
+269,269,What is the Cost_Difference_with_Baseline of Mont Park?,51437.89,3
+270,270,What is the Estimated_Total_Cost of Mont Park?,431793.8,['379766.95']
+271,271,What is the CO2_Emission_YTD of Mont Park?,987.43,['826.74']
+272,272,What is the Maximum_Peak_Energy_Consumption of Mont Park?,3383.45,['4999.4']
+273,273,What is the Total_Energy_Usage_YTD of Agora East Building?,6478367.64,['15738.65']
+274,274,What is the Total_Energy_Usage_MTD of Agora East Building?,12288.87,393521.67999999993
+275,275,What is the Total_Energy_Usage_WTD of Agora East Building?,5610.62,['15738.65']
+276,276,What is the Cost_Difference_with_Baseline of Agora East Building?,51484.82,162645.68
+277,277,What is the Estimated_Total_Cost of Agora East Building?,456845.8,10878768.999999998
+278,278,What is the CO2_Emission_YTD of Agora East Building?,904.91,['826.74']
+279,279,What is the Maximum_Peak_Energy_Consumption of Agora East Building?,4695.97,['4999.4']
+280,280,What is the Total_Energy_Usage_YTD of Animal and Glass Houses?,6056166.82,391966.06
+281,281,What is the Total_Energy_Usage_MTD of Animal and Glass Houses?,29185.43,23
+282,282,What is the Total_Energy_Usage_WTD of Animal and Glass Houses?,6613.59,391966.06
+283,283,What is the Cost_Difference_with_Baseline of Animal and Glass Houses?,53845.66,2
+284,284,What is the Estimated_Total_Cost of Animal and Glass Houses?,315041.41,10878768.999999998
+285,285,What is the CO2_Emission_YTD of Animal and Glass Houses?,782.59,2
+286,286,What is the Maximum_Peak_Energy_Consumption of Animal and Glass Houses?,3095.31,['4999.4']
+287,287,What is the Total_Energy_Usage_YTD of Agricultural Reserve?,6438945.41,49002266.489999995
+288,288,What is the Total_Energy_Usage_MTD of Agricultural Reserve?,19146.51,113701511.8
+289,289,What is the Total_Energy_Usage_WTD of Agricultural Reserve?,8809.27,29466035.94
+290,290,What is the Cost_Difference_with_Baseline of Agricultural Reserve?,43154.71,51793.12666666667
+291,291,What is the Estimated_Total_Cost of Agricultural Reserve?,481816.52,['460625.54']
+292,292,What is the CO2_Emission_YTD of Agricultural Reserve?,932.24,['826.74']
+293,293,What is the Maximum_Peak_Energy_Consumption of Agricultural Reserve?,3342.86,['4999.4']
+294,294,What is the Total_Energy_Usage_YTD of LV_Incoming_BEN_AS2.AS1_Main_Switch?,6999351.86,13
+295,295,What is the Total_Energy_Usage_MTD of LV_Incoming_BEN_AS2.AS1_Main_Switch?,12560.5,13
+296,296,What is the Total_Energy_Usage_WTD of LV_Incoming_BEN_AS2.AS1_Main_Switch?,11367.86,13
+297,297,What is the Cost_Difference_with_Baseline of LV_Incoming_BEN_AS2.AS1_Main_Switch?,46987.11,55106.547999999995
+298,298,What is the Estimated_Total_Cost of LV_Incoming_BEN_AS2.AS1_Main_Switch?,419224.4,478164.3933333333
+299,299,What is the CO2_Emission_YTD of LV_Incoming_BEN_AS2.AS1_Main_Switch?,788.94,['826.74']
+300,300,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_BEN_AS2.AS1_Main_Switch?,4022.24,['3412.2']
+301,301,What is the Total_Energy_Usage_YTD of LV_Incoming_BEN_AS2.AS2_Main_Switch?,4390787.54,13
+302,302,What is the Total_Energy_Usage_MTD of LV_Incoming_BEN_AS2.AS2_Main_Switch?,14619.16,12
+303,303,What is the Total_Energy_Usage_WTD of LV_Incoming_BEN_AS2.AS2_Main_Switch?,10924.51,13
+304,304,What is the Cost_Difference_with_Baseline of LV_Incoming_BEN_AS2.AS2_Main_Switch?,52197.1,55106.547999999995
+305,305,What is the Estimated_Total_Cost of LV_Incoming_BEN_AS2.AS2_Main_Switch?,516767.71,506562.7733333334
+306,306,What is the CO2_Emission_YTD of LV_Incoming_BEN_AS2.AS2_Main_Switch?,993.01,['826.74']
+307,307,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_BEN_AS2.AS2_Main_Switch?,4412.98,['3412.2']
+308,308,What is the Total_Energy_Usage_YTD of Agora Theatre?,3700371.6,22909288.759999998
+309,309,What is the Total_Energy_Usage_MTD of Agora Theatre?,26835.04,393521.67999999993
+310,310,What is the Total_Energy_Usage_WTD of Agora Theatre?,10578.43,110330538.17999999
+311,311,What is the Cost_Difference_with_Baseline of Agora Theatre?,51175.53,2
+312,312,What is the Estimated_Total_Cost of Agora Theatre?,437518.53,10878768.999999998
+313,313,What is the CO2_Emission_YTD of Agora Theatre?,597.17,['826.74']
+314,314,What is the Maximum_Peak_Energy_Consumption of Agora Theatre?,3686.7,['4999.4']
+315,315,What is the Total_Energy_Usage_YTD of LV_Incoming_WOD_SMSB.AW-1_Main_Supply?,4731590.29,244761.86
+316,316,What is the Total_Energy_Usage_MTD of LV_Incoming_WOD_SMSB.AW-1_Main_Supply?,14746.06,244761.86
+317,317,What is the Total_Energy_Usage_WTD of LV_Incoming_WOD_SMSB.AW-1_Main_Supply?,11457.62,18368.715454545454
+318,318,What is the Cost_Difference_with_Baseline of LV_Incoming_WOD_SMSB.AW-1_Main_Supply?,52677.63,55106.547999999995
+319,319,What is the Estimated_Total_Cost of LV_Incoming_WOD_SMSB.AW-1_Main_Supply?,471003.75,492557.83888888895
+320,320,What is the CO2_Emission_YTD of LV_Incoming_WOD_SMSB.AW-1_Main_Supply?,987.33,['826.74']
+321,321,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_WOD_SMSB.AW-1_Main_Supply?,3374.93,['3412.2']
+322,322,What is the Total_Energy_Usage_YTD of Albury-Wodonga - B1?,6174392.4,['19720.0']
+323,323,What is the Total_Energy_Usage_MTD of Albury-Wodonga - B1?,18483.44,['19720.0']
+324,324,What is the Total_Energy_Usage_WTD of Albury-Wodonga - B1?,7008.93,['19720.0']
+325,325,What is the Cost_Difference_with_Baseline of Albury-Wodonga - B1?,41036.75,54215.22666666666
+326,326,What is the Estimated_Total_Cost of Albury-Wodonga - B1?,393292.03,4409648.04
+327,327,What is the CO2_Emission_YTD of Albury-Wodonga - B1?,974.92,['826.74']
+328,328,What is the Maximum_Peak_Energy_Consumption of Albury-Wodonga - B1?,3099.8,8411.599999999999
+329,329,What is the Total_Energy_Usage_YTD of Albury-Wodonga - B3?,3198168.18,[]
+330,330,What is the Total_Energy_Usage_MTD of Albury-Wodonga - B3?,15181.38,['19720.0']
+331,331,What is the Total_Energy_Usage_WTD of Albury-Wodonga - B3?,9089.49,[]
+332,332,What is the Cost_Difference_with_Baseline of Albury-Wodonga - B3?,43711.54,53189.625
+333,333,What is the Estimated_Total_Cost of Albury-Wodonga - B3?,584215.45,1659815.72
+334,334,What is the CO2_Emission_YTD of Albury-Wodonga - B3?,521.38,['826.74']
+335,335,What is the Maximum_Peak_Energy_Consumption of Albury-Wodonga - B3?,3720.92,4349.19
+336,336,What is the Total_Energy_Usage_YTD of Albury-Wodonga - B3A?,5392238.52,[]
+337,337,What is the Total_Energy_Usage_MTD of Albury-Wodonga - B3A?,19717.84,['19720.0']
+338,338,What is the Total_Energy_Usage_WTD of Albury-Wodonga - B3A?,6762.7,['19720.0']
+339,339,What is the Cost_Difference_with_Baseline of Albury-Wodonga - B3A?,43256.19,53189.625
+340,340,What is the Estimated_Total_Cost of Albury-Wodonga - B3A?,421688.21,4409648.04
+341,341,What is the CO2_Emission_YTD of Albury-Wodonga - B3A?,876.17,['826.74']
+342,342,What is the Maximum_Peak_Energy_Consumption of Albury-Wodonga - B3A?,3389.86,4349.19
+343,343,What is the Total_Energy_Usage_YTD of Albury-Wodonga - B4?,4872906.77,[]
+344,344,What is the Total_Energy_Usage_MTD of Albury-Wodonga - B4?,25991.69,['19720.0']
+345,345,What is the Total_Energy_Usage_WTD of Albury-Wodonga - B4?,11029.3,['5285610.38']
+346,346,What is the Cost_Difference_with_Baseline of Albury-Wodonga - B4?,57593.03,53189.625
+347,347,What is the Estimated_Total_Cost of Albury-Wodonga - B4?,474421.08,2192469.5300000003
+348,348,What is the CO2_Emission_YTD of Albury-Wodonga - B4?,710.32,['826.74']
+349,349,What is the Maximum_Peak_Energy_Consumption of Albury-Wodonga - B4?,3346.21,4817.6849999999995
+350,350,What is the Total_Energy_Usage_YTD of Albury-Wodonga - B5A?,5053423.04,[]
+351,351,What is the Total_Energy_Usage_MTD of Albury-Wodonga - B5A?,28019.4,['19720.0']
+352,352,What is the Total_Energy_Usage_WTD of Albury-Wodonga - B5A?,7135.72,['5285610.38']
+353,353,What is the Cost_Difference_with_Baseline of Albury-Wodonga - B5A?,59194.77,['47322.91']
+354,354,What is the Estimated_Total_Cost of Albury-Wodonga - B5A?,335513.59,3949022.5
+355,355,What is the CO2_Emission_YTD of Albury-Wodonga - B5A?,553.41,['826.74']
+356,356,What is the Maximum_Peak_Energy_Consumption of Albury-Wodonga - B5A?,3188.59,4349.19
+357,357,What is the Total_Energy_Usage_YTD of Albury-Wodonga - B6?,5886773.99,['19720.0']
+358,358,What is the Total_Energy_Usage_MTD of Albury-Wodonga - B6?,17595.09,['19720.0']
+359,359,What is the Total_Energy_Usage_WTD of Albury-Wodonga - B6?,6319.73,['5285610.38']
+360,360,What is the Cost_Difference_with_Baseline of Albury-Wodonga - B6?,57829.13,51794.67
+361,361,What is the Estimated_Total_Cost of Albury-Wodonga - B6?,403674.68,['547076.66']
+362,362,What is the CO2_Emission_YTD of Albury-Wodonga - B6?,953.61,['826.74']
+363,363,What is the Maximum_Peak_Energy_Consumption of Albury-Wodonga - B6?,4299.09,4349.19
+364,364,What is the Total_Energy_Usage_YTD of Albury-Wodonga - B8?,5478969.35,[]
+365,365,What is the Total_Energy_Usage_MTD of Albury-Wodonga - B8?,22940.92,['19720.0']
+366,366,What is the Total_Energy_Usage_WTD of Albury-Wodonga - B8?,8260.22,['5285610.38']
+367,367,What is the Cost_Difference_with_Baseline of Albury-Wodonga - B8?,43161.07,['47322.91']
+368,368,What is the Estimated_Total_Cost of Albury-Wodonga - B8?,503120.17,2884946.18
+369,369,What is the CO2_Emission_YTD of Albury-Wodonga - B8?,846.7,['826.74']
+370,370,What is the Maximum_Peak_Energy_Consumption of Albury-Wodonga - B8?,3024.44,['4999.4']
+371,371,What is the Total_Energy_Usage_YTD of Boilerhouse Building?,3387579.84,177279.71
+372,372,What is the Total_Energy_Usage_MTD of Boilerhouse Building?,23465.84,323514.95999999996
+373,373,What is the Total_Energy_Usage_WTD of Boilerhouse Building?,7794.45,55464066.059999995
+374,374,What is the Cost_Difference_with_Baseline of Boilerhouse Building?,47982.61,115322.76999999999
+375,375,What is the Estimated_Total_Cost of Boilerhouse Building?,365353.89,10878768.999999998
+376,376,What is the CO2_Emission_YTD of Boilerhouse Building?,677.73,['826.74']
+377,377,What is the Maximum_Peak_Energy_Consumption of Boilerhouse Building?,4153.92,['4999.4']
+378,378,What is the Total_Energy_Usage_YTD of Beth Gleeson Building?,6875253.55,37110.7
+379,379,What is the Total_Energy_Usage_MTD of Beth Gleeson Building?,15393.03,413370.24
+380,380,What is the Total_Energy_Usage_WTD of Beth Gleeson Building?,10898.37,37110.7
+381,381,What is the Cost_Difference_with_Baseline of Beth Gleeson Building?,41497.33,115322.76999999999
+382,382,What is the Estimated_Total_Cost of Beth Gleeson Building?,543366.37,10441176.91
+383,383,What is the CO2_Emission_YTD of Beth Gleeson Building?,508.64,['826.74']
+384,384,What is the Maximum_Peak_Energy_Consumption of Beth Gleeson Building?,4062.49,['4999.4']
+385,385,What is the Total_Energy_Usage_YTD of LV_Incoming_MIL.BGR_Main_Supply?,6348837.06,13
+386,386,What is the Total_Energy_Usage_MTD of LV_Incoming_MIL.BGR_Main_Supply?,18092.96,13
+387,387,What is the Total_Energy_Usage_WTD of LV_Incoming_MIL.BGR_Main_Supply?,11348.95,13
+388,388,What is the Cost_Difference_with_Baseline of LV_Incoming_MIL.BGR_Main_Supply?,47168.51,55106.547999999995
+389,389,What is the Estimated_Total_Cost of LV_Incoming_MIL.BGR_Main_Supply?,487599.29,523212.885
+390,390,What is the CO2_Emission_YTD of LV_Incoming_MIL.BGR_Main_Supply?,993.36,['826.74']
+391,391,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_MIL.BGR_Main_Supply?,4453.99,3880.5800000000004
+392,392,What is the Total_Energy_Usage_YTD of BS1 Building?,3684377.34,34262.92
+393,393,What is the Total_Energy_Usage_MTD of BS1 Building?,15700.24,['14542.92']
+394,394,What is the Total_Energy_Usage_WTD of BS1 Building?,6313.61,10965615.649999999
+395,395,What is the Cost_Difference_with_Baseline of BS1 Building?,44938.6,54215.22666666666
+396,396,What is the Estimated_Total_Cost of BS1 Building?,373915.26,['513771.96']
+397,397,What is the CO2_Emission_YTD of BS1 Building?,807.35,['826.74']
+398,398,What is the Maximum_Peak_Energy_Consumption of BS1 Building?,4641.32,4416.92
+399,399,What is the Total_Energy_Usage_YTD of BS2 Building?,5338302.3,41092.05
+400,400,What is the Total_Energy_Usage_MTD of BS2 Building?,19537.3,['21372.05']
+401,401,What is the Total_Energy_Usage_WTD of BS2 Building?,8408.92,[]
+402,402,What is the Cost_Difference_with_Baseline of BS2 Building?,40109.23,57661.384999999995
+403,403,What is the Estimated_Total_Cost of BS2 Building?,308300.88,2513654.8800000004
+404,404,What is the CO2_Emission_YTD of BS2 Building?,527.5,1349.02
+405,405,What is the Maximum_Peak_Energy_Consumption of BS2 Building?,3062.19,['3499.99']
+406,406,What is the Total_Energy_Usage_YTD of Childrens Centre?,6082894.56,110330538.17999999
+407,407,What is the Total_Energy_Usage_MTD of Childrens Centre?,29624.67,107260867.65
+408,408,What is the Total_Energy_Usage_WTD of Childrens Centre?,4997.11,110330538.17999999
+409,409,What is the Cost_Difference_with_Baseline of Childrens Centre?,40292.57,2
+410,410,What is the Estimated_Total_Cost of Childrens Centre?,430193.92,9547174.569999998
+411,411,What is the CO2_Emission_YTD of Childrens Centre?,830.83,['826.74']
+412,412,What is the Maximum_Peak_Energy_Consumption of Childrens Centre?,3770.54,['4999.4']
+413,413,What is the Total_Energy_Usage_YTD of Chisholm College?,5496537.64,202055.87
+414,414,What is the Total_Energy_Usage_MTD of Chisholm College?,28228.0,427327.86
+415,415,What is the Total_Energy_Usage_WTD of Chisholm College?,8413.53,104107.22
+416,416,What is the Cost_Difference_with_Baseline of Chisholm College?,47526.54,168822.07
+417,417,What is the Estimated_Total_Cost of Chisholm College?,437731.38,10878768.999999998
+418,418,What is the CO2_Emission_YTD of Chisholm College?,667.91,['826.74']
+419,419,What is the Maximum_Peak_Energy_Consumption of Chisholm College?,3105.54,['4999.4']
+420,420,What is the Total_Energy_Usage_YTD of CS Buildings CS1 CS2 CS3?,3138096.34,82037.66
+421,421,What is the Total_Energy_Usage_MTD of CS Buildings CS1 CS2 CS3?,23294.43,88268.54999999999
+422,422,What is the Total_Energy_Usage_WTD of CS Buildings CS1 CS2 CS3?,7910.61,132285.96
+423,423,What is the Cost_Difference_with_Baseline of CS Buildings CS1 CS2 CS3?,47291.69,53189.625
+424,424,What is the Estimated_Total_Cost of CS Buildings CS1 CS2 CS3?,321166.87,3083113.75
+425,425,What is the CO2_Emission_YTD of CS Buildings CS1 CS2 CS3?,632.66,1349.02
+426,426,What is the Maximum_Peak_Energy_Consumption of CS Buildings CS1 CS2 CS3?,4418.68,['4999.4']
+427,427,What is the Total_Energy_Usage_YTD of David Myers Building?,3704296.59,110330538.17999999
+428,428,What is the Total_Energy_Usage_MTD of David Myers Building?,20293.35,413370.24
+429,429,What is the Total_Energy_Usage_WTD of David Myers Building?,5228.84,22
+430,430,What is the Cost_Difference_with_Baseline of David Myers Building?,50497.98,57661.384999999995
+431,431,What is the Estimated_Total_Cost of David Myers Building?,342236.27,10878768.999999998
+432,432,What is the CO2_Emission_YTD of David Myers Building?,552.26,['826.74']
+433,433,What is the Maximum_Peak_Energy_Consumption of David Myers Building?,3157.15,['4999.4']
+434,434,What is the Total_Energy_Usage_YTD of Donald Whitehead Building?,3481538.96,427327.86
+435,435,What is the Total_Energy_Usage_MTD of Donald Whitehead Building?,24697.11,427327.86
+436,436,What is the Total_Energy_Usage_WTD of Donald Whitehead Building?,10453.24,110330538.17999999
+437,437,What is the Cost_Difference_with_Baseline of Donald Whitehead Building?,51515.86,57661.384999999995
+438,438,What is the Estimated_Total_Cost of Donald Whitehead Building?,490562.13,10878768.999999998
+439,439,What is the CO2_Emission_YTD of Donald Whitehead Building?,876.84,['826.74']
+440,440,What is the Maximum_Peak_Energy_Consumption of Donald Whitehead Building?,4619.52,['4999.4']
+441,441,What is the Total_Energy_Usage_YTD of ED1 Building HEUD?,4710611.16,90305.35
+442,442,What is the Total_Energy_Usage_MTD of ED1 Building HEUD?,21175.67,47095.17
+443,443,What is the Total_Energy_Usage_WTD of ED1 Building HEUD?,9704.36,32552.25
+444,444,What is the Cost_Difference_with_Baseline of ED1 Building HEUD?,52176.37,2
+445,445,What is the Estimated_Total_Cost of ED1 Building HEUD?,493892.88,['598967.1']
+446,446,What is the CO2_Emission_YTD of ED1 Building HEUD?,767.79,1349.02
+447,447,What is the Maximum_Peak_Energy_Consumption of ED1 Building HEUD?,4267.77,11911.59
+448,448,What is the Total_Energy_Usage_YTD of ED2 Building?,3855674.21,152763.34999999998
+449,449,What is the Total_Energy_Usage_MTD of ED2 Building?,17504.39,53924.3
+450,450,What is the Total_Energy_Usage_WTD of ED2 Building?,9530.39,40569682.14
+451,451,What is the Cost_Difference_with_Baseline of ED2 Building?,57168.56,4
+452,452,What is the Estimated_Total_Cost of ED2 Building?,412236.59,['598967.1']
+453,453,What is the CO2_Emission_YTD of ED2 Building?,834.68,['826.74']
+454,454,What is the Maximum_Peak_Energy_Consumption of ED2 Building?,3837.82,['4999.4']
+455,455,What is the Total_Energy_Usage_YTD of Eastern Lecture Theatre?,3462268.28,17453056.33
+456,456,What is the Total_Energy_Usage_MTD of Eastern Lecture Theatre?,17391.69,260876.69
+457,457,What is the Total_Energy_Usage_WTD of Eastern Lecture Theatre?,10808.7,29603742.97
+458,458,What is the Cost_Difference_with_Baseline of Eastern Lecture Theatre?,52518.27,51794.67
+459,459,What is the Estimated_Total_Cost of Eastern Lecture Theatre?,308333.6,['379766.95']
+460,460,What is the CO2_Emission_YTD of Eastern Lecture Theatre?,804.64,['826.74']
+461,461,What is the Maximum_Peak_Energy_Consumption of Eastern Lecture Theatre?,3351.09,['4999.4']
+462,462,What is the Total_Energy_Usage_YTD of Glenn College?,4805690.13,140084.69
+463,463,What is the Total_Energy_Usage_MTD of Glenn College?,28189.18,263982.2
+464,464,What is the Total_Energy_Usage_WTD of Glenn College?,10603.65,27769792.77
+465,465,What is the Cost_Difference_with_Baseline of Glenn College?,46773.86,['56266.43']
+466,466,What is the Estimated_Total_Cost of Glenn College?,500713.2,10878768.999999998
+467,467,What is the CO2_Emission_YTD of Glenn College?,577.38,['826.74']
+468,468,What is the Maximum_Peak_Energy_Consumption of Glenn College?,4546.41,['4999.4']
+469,469,What is the Total_Energy_Usage_YTD of George Singer Building?,4959094.63,[]
+470,470,What is the Total_Energy_Usage_MTD of George Singer Building?,19008.67,393521.67999999993
+471,471,What is the Total_Energy_Usage_WTD of George Singer Building?,7757.28,11579056.64
+472,472,What is the Cost_Difference_with_Baseline of George Singer Building?,44234.39,54036.245
+473,473,What is the Estimated_Total_Cost of George Singer Building?,455955.3,[]
+474,474,What is the CO2_Emission_YTD of George Singer Building?,826.81,['826.74']
+475,475,What is the Maximum_Peak_Energy_Consumption of George Singer Building?,3548.18,['4999.4']
+476,476,What is the Total_Energy_Usage_YTD of Health Sciences Buildings 1 2 3?,5251070.08,286402.1
+477,477,What is the Total_Energy_Usage_MTD of Health Sciences Buildings 1 2 3?,29154.55,188617.22
+478,478,What is the Total_Energy_Usage_WTD of Health Sciences Buildings 1 2 3?,8451.59,286402.1
+479,479,What is the Cost_Difference_with_Baseline of Health Sciences Buildings 1 2 3?,52832.3,54215.22666666666
+480,480,What is the Estimated_Total_Cost of Health Sciences Buildings 1 2 3?,394973.06,2566114.0900000003
+481,481,What is the CO2_Emission_YTD of Health Sciences Buildings 1 2 3?,969.27,1349.02
+482,482,What is the Maximum_Peak_Energy_Consumption of Health Sciences Buildings 1 2 3?,3298.5,6912.19
+483,483,What is the Total_Energy_Usage_YTD of Health Sciences Clinic?,3519600.93,113701511.8
+484,484,What is the Total_Energy_Usage_MTD of Health Sciences Clinic?,20237.82,113701511.8
+485,485,What is the Total_Energy_Usage_WTD of Health Sciences Clinic?,9389.89,113701511.8
+486,486,What is the Cost_Difference_with_Baseline of Health Sciences Clinic?,50438.02,57661.384999999995
+487,487,What is the Estimated_Total_Cost of Health Sciences Clinic?,414037.89,10878768.999999998
+488,488,What is the CO2_Emission_YTD of Health Sciences Clinic?,888.15,['826.74']
+489,489,What is the Maximum_Peak_Energy_Consumption of Health Sciences Clinic?,4939.0,['4999.4']
+490,490,What is the Total_Energy_Usage_YTD of Hooper Szental Building?,6147840.86,79040.94
+491,491,What is the Total_Energy_Usage_MTD of Hooper Szental Building?,28446.11,372117.49999999994
+492,492,What is the Total_Energy_Usage_WTD of Hooper Szental Building?,9771.49,79040.94
+493,493,What is the Cost_Difference_with_Baseline of Hooper Szental Building?,59828.89,115322.76999999999
+494,494,What is the Estimated_Total_Cost of Hooper Szental Building?,579204.61,10878768.999999998
+495,495,What is the CO2_Emission_YTD of Hooper Szental Building?,717.63,1349.02
+496,496,What is the Maximum_Peak_Energy_Consumption of Hooper Szental Building?,3255.2,['4999.4']
+497,497,What is the Total_Energy_Usage_YTD of Humanities 2 Building?,5637190.15,55485.66
+498,498,What is the Total_Energy_Usage_MTD of Humanities 2 Building?,27017.26,41092.05
+499,499,What is the Total_Energy_Usage_WTD of Humanities 2 Building?,11335.07,55485.66
+500,500,What is the Cost_Difference_with_Baseline of Humanities 2 Building?,41811.87,4
+501,501,What is the Estimated_Total_Cost of Humanities 2 Building?,320348.55,2067091.16
+502,502,What is the CO2_Emission_YTD of Humanities 2 Building?,683.14,1349.02
+503,503,What is the Maximum_Peak_Energy_Consumption of Humanities 2 Building?,4446.07,['4999.4']
+504,504,What is the Total_Energy_Usage_YTD of Humanities 3 Building?,4823979.72,68150.31
+505,505,What is the Total_Energy_Usage_MTD of Humanities 3 Building?,17603.95,41092.05
+506,506,What is the Total_Energy_Usage_WTD of Humanities 3 Building?,9995.9,91007.73999999999
+507,507,What is the Cost_Difference_with_Baseline of Humanities 3 Building?,47993.92,5
+508,508,What is the Estimated_Total_Cost of Humanities 3 Building?,509411.88,2067091.16
+509,509,What is the CO2_Emission_YTD of Humanities 3 Building?,596.26,1349.02
+510,510,What is the Maximum_Peak_Energy_Consumption of Humanities 3 Building?,4527.39,4249.695
+511,511,What is the Total_Energy_Usage_YTD of Indoor Sports Centre?,6805569.49,['5285610.38']
+512,512,What is the Total_Energy_Usage_MTD of Indoor Sports Centre?,16346.61,[]
+513,513,What is the Total_Energy_Usage_WTD of Indoor Sports Centre?,5249.81,['5285610.38']
+514,514,What is the Cost_Difference_with_Baseline of Indoor Sports Centre?,57260.98,['56266.43']
+515,515,What is the Estimated_Total_Cost of Indoor Sports Centre?,479470.79,10878768.999999998
+516,516,What is the CO2_Emission_YTD of Indoor Sports Centre?,843.05,['826.74']
+517,517,What is the Maximum_Peak_Energy_Consumption of Indoor Sports Centre?,3764.31,['4999.4']
+518,518,What is the Total_Energy_Usage_YTD of John Scott Meeting House?,6273119.56,37948.89
+519,519,What is the Total_Energy_Usage_MTD of John Scott Meeting House?,18946.33,427327.86
+520,520,What is the Total_Energy_Usage_WTD of John Scott Meeting House?,11676.16,57668.89000000001
+521,521,What is the Cost_Difference_with_Baseline of John Scott Meeting House?,50703.44,['56266.43']
+522,522,What is the Estimated_Total_Cost of John Scott Meeting House?,524809.96,10531843.32
+523,523,What is the CO2_Emission_YTD of John Scott Meeting House?,926.88,['826.74']
+524,524,What is the Maximum_Peak_Energy_Consumption of John Scott Meeting House?,4974.65,['4999.4']
+525,525,What is the Total_Energy_Usage_YTD of Library?,5366558.93,[]
+526,526,What is the Total_Energy_Usage_MTD of Library?,14343.5,113701511.8
+527,527,What is the Total_Energy_Usage_WTD of Library?,9254.44,113701511.8
+528,528,What is the Cost_Difference_with_Baseline of Library?,57084.96,['40056.61']
+529,529,What is the Estimated_Total_Cost of Library?,362777.05,['460625.54']
+530,530,What is the CO2_Emission_YTD of Library?,505.89,['826.74']
+531,531,What is the Maximum_Peak_Energy_Consumption of Library?,3911.4,['4999.4']
+532,532,What is the Total_Energy_Usage_YTD of LIMS 1?,3715358.6,60648318.63000001
+533,533,What is the Total_Energy_Usage_MTD of LIMS 1?,15074.48,188617.22
+534,534,What is the Total_Energy_Usage_WTD of LIMS 1?,7074.47,60648318.63000001
+535,535,What is the Cost_Difference_with_Baseline of LIMS 1?,46679.24,4
+536,536,What is the Estimated_Total_Cost of LIMS 1?,476720.68,6351604.22
+537,537,What is the CO2_Emission_YTD of LIMS 1?,577.48,['826.74']
+538,538,What is the Maximum_Peak_Energy_Consumption of LIMS 1?,3415.59,9039.619999999999
+539,539,What is the Total_Energy_Usage_YTD of LIMS2 Building?,4938339.75,286402.1
+540,540,What is the Total_Energy_Usage_MTD of LIMS2 Building?,18400.2,122557.16999999998
+541,541,What is the Total_Energy_Usage_WTD of LIMS2 Building?,4039.28,263544.67
+542,542,What is the Cost_Difference_with_Baseline of LIMS2 Building?,50030.22,55106.547999999995
+543,543,What is the Estimated_Total_Cost of LIMS2 Building?,532866.21,8144855.05
+544,544,What is the CO2_Emission_YTD of LIMS2 Building?,938.43,['826.74']
+545,545,What is the Maximum_Peak_Energy_Consumption of LIMS2 Building?,4348.39,11911.59
+546,546,What is the Total_Energy_Usage_YTD of Latrobe Uni Mediucal Centre?,3192152.93,154496.2
+547,547,What is the Total_Energy_Usage_MTD of Latrobe Uni Mediucal Centre?,24853.92,124136.43
+548,548,What is the Total_Energy_Usage_WTD of Latrobe Uni Mediucal Centre?,7674.31,32834646.09
+549,549,What is the Cost_Difference_with_Baseline of Latrobe Uni Mediucal Centre?,42310.15,57661.384999999995
+550,550,What is the Estimated_Total_Cost of Latrobe Uni Mediucal Centre?,551633.39,1659815.72
+551,551,What is the CO2_Emission_YTD of Latrobe Uni Mediucal Centre?,714.8,['826.74']
+552,552,What is the Maximum_Peak_Energy_Consumption of Latrobe Uni Mediucal Centre?,4748.49,['4999.4']
+553,553,What is the Total_Energy_Usage_YTD of Wildlife Reserve?,3370791.68,25825117.709999997
+554,554,What is the Total_Energy_Usage_MTD of Wildlife Reserve?,20318.73,113701511.8
+555,555,What is the Total_Energy_Usage_WTD of Wildlife Reserve?,11017.0,39077188.260000005
+556,556,What is the Cost_Difference_with_Baseline of Wildlife Reserve?,47574.59,51793.12666666667
+557,557,What is the Estimated_Total_Cost of Wildlife Reserve?,324031.33,['460625.54']
+558,558,What is the CO2_Emission_YTD of Wildlife Reserve?,503.53,['826.74']
+559,559,What is the Maximum_Peak_Energy_Consumption of Wildlife Reserve?,3146.87,['4999.4']
+560,560,What is the Total_Energy_Usage_YTD of Martin Building?,6306771.99,[]
+561,561,What is the Total_Energy_Usage_MTD of Martin Building?,21913.37,391966.06
+562,562,What is the Total_Energy_Usage_WTD of Martin Building?,8565.52,117958.76999999999
+563,563,What is the Cost_Difference_with_Baseline of Martin Building?,41699.71,2
+564,564,What is the Estimated_Total_Cost of Martin Building?,583301.96,[]
+565,565,What is the CO2_Emission_YTD of Martin Building?,876.55,['826.74']
+566,566,What is the Maximum_Peak_Energy_Consumption of Martin Building?,4798.57,['4999.4']
+567,567,What is the Total_Energy_Usage_YTD of Menzies College Main Supply?,6403573.77,84029.01000000001
+568,568,What is the Total_Energy_Usage_MTD of Menzies College Main Supply?,26673.85,405923.68
+569,569,What is the Total_Energy_Usage_WTD of Menzies College Main Supply?,7150.42,40362.4
+570,570,What is the Cost_Difference_with_Baseline of Menzies College Main Supply?,59950.69,57661.384999999995
+571,571,What is the Estimated_Total_Cost of Menzies College Main Supply?,489871.68,10878768.999999998
+572,572,What is the CO2_Emission_YTD of Menzies College Main Supply?,855.84,['826.74']
+573,573,What is the Maximum_Peak_Energy_Consumption of Menzies College Main Supply?,3046.38,['4999.4']
+574,574,What is the Total_Energy_Usage_YTD of Menzies College Annexe?,5782555.74,['19720.0']
+575,575,What is the Total_Energy_Usage_MTD of Menzies College Annexe?,17377.5,405923.68
+576,576,What is the Total_Energy_Usage_WTD of Menzies College Annexe?,9255.24,['19720.0']
+577,577,What is the Cost_Difference_with_Baseline of Menzies College Annexe?,44535.69,162645.68
+578,578,What is the Estimated_Total_Cost of Menzies College Annexe?,449861.09,10878768.999999998
+579,579,What is the CO2_Emission_YTD of Menzies College Annexe?,733.88,['826.74']
+580,580,What is the Maximum_Peak_Energy_Consumption of Menzies College Annexe?,3901.52,['4999.4']
+581,581,What is the Total_Energy_Usage_YTD of Albury-Wodonga - MH1?,4207725.7,[]
+582,582,What is the Total_Energy_Usage_MTD of Albury-Wodonga - MH1?,25489.9,['19720.0']
+583,583,What is the Total_Energy_Usage_WTD of Albury-Wodonga - MH1?,11271.16,[]
+584,584,What is the Cost_Difference_with_Baseline of Albury-Wodonga - MH1?,40463.91,[]
+585,585,What is the Estimated_Total_Cost of Albury-Wodonga - MH1?,463333.34,5330695.44
+586,586,What is the CO2_Emission_YTD of Albury-Wodonga - MH1?,815.43,['826.74']
+587,587,What is the Maximum_Peak_Energy_Consumption of Albury-Wodonga - MH1?,4196.1,['4999.4']
+588,588,What is the Total_Energy_Usage_YTD of Albury-Wodonga - MH2?,6261973.34,[]
+589,589,What is the Total_Energy_Usage_MTD of Albury-Wodonga - MH2?,17461.73,['19720.0']
+590,590,What is the Total_Energy_Usage_WTD of Albury-Wodonga - MH2?,5875.2,['5285610.38']
+591,591,What is the Cost_Difference_with_Baseline of Albury-Wodonga - MH2?,43212.25,2
+592,592,What is the Estimated_Total_Cost of Albury-Wodonga - MH2?,533805.02,5891559.100000001
+593,593,What is the CO2_Emission_YTD of Albury-Wodonga - MH2?,513.55,['826.74']
+594,594,What is the Maximum_Peak_Energy_Consumption of Albury-Wodonga - MH2?,3747.49,['4999.4']
+595,595,What is the Total_Energy_Usage_YTD of Peribolos East Building?,5259161.5,237014.86
+596,596,What is the Total_Energy_Usage_MTD of Peribolos East Building?,26997.92,405923.68
+597,597,What is the Total_Energy_Usage_WTD of Peribolos East Building?,4259.19,92769.70999999999
+598,598,What is the Cost_Difference_with_Baseline of Peribolos East Building?,59838.83,54215.22666666666
+599,599,What is the Estimated_Total_Cost of Peribolos East Building?,392265.16,10878768.999999998
+600,600,What is the CO2_Emission_YTD of Peribolos East Building?,883.94,['826.74']
+601,601,What is the Maximum_Peak_Energy_Consumption of Peribolos East Building?,3328.93,['4999.4']
+602,602,What is the Total_Energy_Usage_YTD of Physical Sciences 1 Building?,3113655.87,250712.41999999998
+603,603,What is the Total_Energy_Usage_MTD of Physical Sciences 1 Building?,20405.29,237273.77
+604,604,What is the Total_Energy_Usage_WTD of Physical Sciences 1 Building?,4343.38,188617.22
+605,605,What is the Cost_Difference_with_Baseline of Physical Sciences 1 Building?,40345.69,5
+606,606,What is the Estimated_Total_Cost of Physical Sciences 1 Building?,503810.97,8571848.229999999
+607,607,What is the CO2_Emission_YTD of Physical Sciences 1 Building?,727.04,['826.74']
+608,608,What is the Maximum_Peak_Energy_Consumption of Physical Sciences 1 Building?,3490.92,6912.19
+609,609,What is the Total_Energy_Usage_YTD of Physical Sciences 2 Building?,4408011.35,188617.22
+610,610,What is the Total_Energy_Usage_MTD of Physical Sciences 2 Building?,19568.51,['19720.0']
+611,611,What is the Total_Energy_Usage_WTD of Physical Sciences 2 Building?,9441.76,88268.54999999999
+612,612,What is the Cost_Difference_with_Baseline of Physical Sciences 2 Building?,43091.9,54036.245
+613,613,What is the Estimated_Total_Cost of Physical Sciences 2 Building?,312562.4,8144855.05
+614,614,What is the CO2_Emission_YTD of Physical Sciences 2 Building?,826.91,['826.74']
+615,615,What is the Maximum_Peak_Energy_Consumption of Physical Sciences 2 Building?,3517.76,6912.19
+616,616,What is the Total_Energy_Usage_YTD of Peribolos West Building?,5657967.3,['14411.51']
+617,617,What is the Total_Energy_Usage_MTD of Peribolos West Building?,16306.32,['14411.51']
+618,618,What is the Total_Energy_Usage_WTD of Peribolos West Building?,8121.92,['14411.51']
+619,619,What is the Cost_Difference_with_Baseline of Peribolos West Building?,49467.53,['47322.91']
+620,620,What is the Estimated_Total_Cost of Peribolos West Building?,529838.78,['513771.96']
+621,621,What is the CO2_Emission_YTD of Peribolos West Building?,675.26,['826.74']
+622,622,What is the Maximum_Peak_Energy_Consumption of Peribolos West Building?,4938.76,8605.119999999999
+623,623,What is the Total_Energy_Usage_YTD of RLR Building?,5208297.59,['3778625.26']
+624,624,What is the Total_Energy_Usage_MTD of RLR Building?,26017.35,56830.700000000004
+625,625,What is the Total_Energy_Usage_WTD of RLR Building?,9583.42,12080456.219999999
+626,626,What is the Cost_Difference_with_Baseline of RLR Building?,45893.34,54215.22666666666
+627,627,What is the Estimated_Total_Cost of RLR Building?,316936.34,['460625.54']
+628,628,What is the CO2_Emission_YTD of RLR Building?,741.12,1349.02
+629,629,What is the Maximum_Peak_Energy_Consumption of RLR Building?,4194.74,['4999.4']
+630,630,What is the Total_Energy_Usage_YTD of SPF Specialised Pathogen Facility?,5890975.82,57264.15
+631,631,What is the Total_Energy_Usage_MTD of SPF Specialised Pathogen Facility?,18474.72,123369.01999999999
+632,632,What is the Total_Energy_Usage_WTD of SPF Specialised Pathogen Facility?,9812.2,['20642.4']
+633,633,What is the Cost_Difference_with_Baseline of SPF Specialised Pathogen Facility?,41397.15,48992.119999999995
+634,634,What is the Estimated_Total_Cost of SPF Specialised Pathogen Facility?,474278.68,10878768.999999998
+635,635,What is the CO2_Emission_YTD of SPF Specialised Pathogen Facility?,774.58,['826.74']
+636,636,What is the Maximum_Peak_Energy_Consumption of SPF Specialised Pathogen Facility?,3941.94,['4999.4']
+637,637,What is the Total_Energy_Usage_YTD of LV_Incoming_SHS.SHS_Main_Supply?,4286919.66,13
+638,638,What is the Total_Energy_Usage_MTD of LV_Incoming_SHS.SHS_Main_Supply?,15583.86,13
+639,639,What is the Total_Energy_Usage_WTD of LV_Incoming_SHS.SHS_Main_Supply?,11884.46,12
+640,640,What is the Cost_Difference_with_Baseline of LV_Incoming_SHS.SHS_Main_Supply?,54488.81,55106.547999999995
+641,641,What is the Estimated_Total_Cost of LV_Incoming_SHS.SHS_Main_Supply?,312658.68,434725.60500000004
+642,642,What is the CO2_Emission_YTD of LV_Incoming_SHS.SHS_Main_Supply?,866.65,['826.74']
+643,643,What is the Maximum_Peak_Energy_Consumption of LV_Incoming_SHS.SHS_Main_Supply?,4171.27,3993.147692307692
+644,644,What is the Total_Energy_Usage_YTD of SFP?,3645993.97,23
+645,645,What is the Total_Energy_Usage_MTD of SFP?,20695.97,23
+646,646,What is the Total_Energy_Usage_WTD of SFP?,7149.72,23
+647,647,What is the Cost_Difference_with_Baseline of SFP?,55814.29,3
+648,648,What is the Estimated_Total_Cost of SFP?,360787.52,7956806.92
+649,649,What is the CO2_Emission_YTD of SFP?,972.52,['826.74']
+650,650,What is the Maximum_Peak_Energy_Consumption of SFP?,3777.83,['4999.4']
+651,651,What is the Total_Energy_Usage_YTD of SFP2?,6399803.7,39689550.059999995
+652,652,What is the Total_Energy_Usage_MTD of SFP2?,20845.42,220867.19
+653,653,What is the Total_Energy_Usage_WTD of SFP2?,11009.95,23521805.83
+654,654,What is the Cost_Difference_with_Baseline of SFP2?,58366.63,3
+655,655,What is the Estimated_Total_Cost of SFP2?,446551.12,2566114.0900000003
+656,656,What is the CO2_Emission_YTD of SFP2?,988.81,['826.74']
+657,657,What is the Maximum_Peak_Energy_Consumption of SFP2?,4099.49,['4999.4']
+658,658,What is the Total_Energy_Usage_YTD of Social Sciences Building?,5975943.35,58939357.7
+659,659,What is the Total_Energy_Usage_MTD of Social Sciences Building?,23848.37,113701511.8
+660,660,What is the Total_Energy_Usage_WTD of Social Sciences Building?,11953.11,98231898.22999999
+661,661,What is the Cost_Difference_with_Baseline of Social Sciences Building?,44898.91,54215.22666666666
+662,662,What is the Estimated_Total_Cost of Social Sciences Building?,494190.63,9385799.559999999
+663,663,What is the CO2_Emission_YTD of Social Sciences Building?,584.86,['826.74']
+664,664,What is the Maximum_Peak_Energy_Consumption of Social Sciences Building?,4390.99,['4999.4']
+665,665,What is the Total_Energy_Usage_YTD of Sylvia Walton Building?,4618991.34,22
+666,666,What is the Total_Energy_Usage_MTD of Sylvia Walton Building?,24660.1,413370.24
+667,667,What is the Total_Energy_Usage_WTD of Sylvia Walton Building?,5526.14,22
+668,668,What is the Cost_Difference_with_Baseline of Sylvia Walton Building?,44587.4,['40056.61']
+669,669,What is the Estimated_Total_Cost of Sylvia Walton Building?,424143.24,6751826.930000001
+670,670,What is the CO2_Emission_YTD of Sylvia Walton Building?,615.63,['826.74']
+671,671,What is the Maximum_Peak_Energy_Consumption of Sylvia Walton Building?,3846.51,['4999.4']
+672,672,What is the Total_Energy_Usage_YTD of Thomas Cherry Shared Load?,5812051.5,182824.13999999998
+673,673,What is the Total_Energy_Usage_MTD of Thomas Cherry Shared Load?,27023.51,23
+674,674,What is the Total_Energy_Usage_WTD of Thomas Cherry Shared Load?,7849.85,391966.06
+675,675,What is the Cost_Difference_with_Baseline of Thomas Cherry Shared Load?,55096.68,115322.76999999999
+676,676,What is the Estimated_Total_Cost of Thomas Cherry Shared Load?,542313.64,10441176.91
+677,677,What is the CO2_Emission_YTD of Thomas Cherry Shared Load?,901.07,['826.74']
+678,678,What is the Maximum_Peak_Energy_Consumption of Thomas Cherry Shared Load?,4424.6,['4999.4']
+679,679,What is the Total_Energy_Usage_YTD of Thomas Cherry Building?,5629300.35,110330538.17999999
+680,680,What is the Total_Energy_Usage_MTD of Thomas Cherry Building?,25296.61,427327.86
+681,681,What is the Total_Energy_Usage_WTD of Thomas Cherry Building?,9835.02,22
+682,682,What is the Cost_Difference_with_Baseline of Thomas Cherry Building?,55920.81,57661.384999999995
+683,683,What is the Estimated_Total_Cost of Thomas Cherry Building?,356763.57,10878768.999999998
+684,684,What is the CO2_Emission_YTD of Thomas Cherry Building?,859.95,['826.74']
+685,685,What is the Maximum_Peak_Energy_Consumption of Thomas Cherry Building?,4045.87,['4999.4']
+686,686,What is the Total_Energy_Usage_YTD of The Learning Commons Building?,5553402.38,['15738.65']
+687,687,What is the Total_Energy_Usage_MTD of The Learning Commons Building?,21732.94,427327.86
+688,688,What is the Total_Energy_Usage_WTD of The Learning Commons Building?,8834.75,['15738.65']
+689,689,What is the Cost_Difference_with_Baseline of The Learning Commons Building?,55790.01,168822.07
+690,690,What is the Estimated_Total_Cost of The Learning Commons Building?,507194.17,10878768.999999998
+691,691,What is the CO2_Emission_YTD of The Learning Commons Building?,950.38,['826.74']
+692,692,What is the Maximum_Peak_Energy_Consumption of The Learning Commons Building?,4836.6,['4999.4']
+693,693,What is the Total_Energy_Usage_YTD of Union?,6485326.38,[]
+694,694,What is the Total_Energy_Usage_MTD of Union?,17897.08,113701511.8
+695,695,What is the Total_Energy_Usage_WTD of Union?,10885.98,66109622.00999998
+696,696,What is the Cost_Difference_with_Baseline of Union?,51646.93,1
+697,697,What is the Estimated_Total_Cost of Union?,577613.37,['460625.54']
+698,698,What is the CO2_Emission_YTD of Union?,587.73,['826.74']
+699,699,What is the Maximum_Peak_Energy_Consumption of Union?,4772.22,['4999.4']
+700,700,What is the Total_Energy_Usage_YTD of Zoological Reserve?,6208091.09,427327.86
+701,701,What is the Total_Energy_Usage_MTD of Zoological Reserve?,16367.44,427327.86
+702,702,What is the Total_Energy_Usage_WTD of Zoological Reserve?,7197.43,427327.86
+703,703,What is the Cost_Difference_with_Baseline of Zoological Reserve?,48435.06,51793.12666666667
+704,704,What is the Estimated_Total_Cost of Zoological Reserve?,455046.92,10878768.999999998
+705,705,What is the CO2_Emission_YTD of Zoological Reserve?,546.34,['826.74']
+706,706,What is the Maximum_Peak_Energy_Consumption of Zoological Reserve?,4015.98,['4999.4']

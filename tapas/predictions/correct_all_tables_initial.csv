@@ -1,0 +1,9 @@
+,Unnamed: 0,Unnamed: 0.1,question,answer,predictions
+0,37,37,Which building has lowest Estimated Total Cost?,LV_Incoming_TER_EMD_Main_Switch_Real_Energy_Into_the_Load_kWh,['LV_Incoming_TER_EMD_Main_Switch_Real_Energy_Into_the_Load_kWh']
+1,40,40,What is the highest CO2 Emission YTD?,996.59,['996.59']
+2,44,44,Which building has highest CO2 Emission YTD?,LV_Incoming_TER_EM_Main_Switch_Real_Energy_Into_the_Load_kWh,['LV_Incoming_TER_EM_Main_Switch_Real_Energy_Into_the_Load_kWh']
+3,49,49,What is the lowest Maximum Peak Energy Consumption?,3092.02,['3092.02']
+4,53,53,Which building has lowest Maximum Peak Energy Consumption?,Terraces - T13,['Terraces - T13']
+5,61,61,What is the CO2 Emission YTD of LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh?,511.32,['511.32']
+6,62,62,What is the Maximum Peak Energy Consumption of LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh?,4577.35,['4577.35']
+7,216,216,What is the Maximum Peak Energy Consumption of Terraces - T8?,4556.64,['4556.64']

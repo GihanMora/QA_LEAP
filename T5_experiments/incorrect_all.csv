@@ -1,0 +1,15 @@
+,Unnamed: 0,Unnamed: 0.1,question,answer,predictions,pred_queries,pred_queries_processed
+0,2,2,What is the sum of Total_Energy_Usage_YTD?,467176387.40000004,[467176387.40000004],<pad> SELECT SUM Total_Energy_Usage_YTD FROM table</s>,SELECT SUM(Total_Energy_Usage_YTD) FROM table_df
+1,5,5,Name the building with the lowest Total_Energy_Usage_YTD?,LV_Incoming_TER_EMC,[3016220.58],<pad> SELECT MIN Total_Energy_Usage_YTD FROM table</s>,SELECT MIN(Total_Energy_Usage_YTD) FROM table_df
+2,13,13,Name the building with the lowest Total_Energy_Usage_MTD?,Agora East,[12288.87],<pad> SELECT MIN Total_Energy_Usage_MTD FROM table</s>,SELECT MIN(Total_Energy_Usage_MTD) FROM table_df
+3,21,21,Name the building with the lowest Total_Energy_Usage_WTD?,LIMS2,[4039.28],<pad> SELECT MIN Total_Energy_Usage_WTD FROM table</s>,SELECT MIN(Total_Energy_Usage_WTD) FROM table_df
+4,26,26,What is the sum of Cost_Difference_with_Baseline?,4618215.029999998,[4618215.0299999975],<pad> SELECT SUM Cost_Difference_with_Baseline FROM table</s>,SELECT SUM(Cost_Difference_with_Baseline) FROM table_df
+5,37,37,Name the building with the lowest Estimated_Total_Cost?,BS2,[308300.88],<pad> SELECT MIN Estimated_Total_Cost FROM table</s>,SELECT MIN(Estimated_Total_Cost) FROM table_df
+6,42,42,What is the sum of CO2_Emission_YTD?,70724.51000000001,[70724.51000000002],<pad> SELECT SUM CO2_Emission_YTD FROM table</s>,SELECT SUM(CO2_Emission_YTD) FROM table_df
+7,45,45,Name the building with the lowest CO2_Emission_YTD?,Wildlife Reserve,['Zoological Reserve'],<pad> SELECT Building FROM table WHERE CO2_Emission_YTD = LOW</s>,SELECT Building FROM table_df WHERE CO2_Emission_YTD = '546.34'
+8,46,46,Number of buildings more than 979 of CO2_Emission_YTD?,5,[1],<pad> SELECT COUNT Buildings FROM table WHERE CO2 emissions = ytd AND Number of buildings > 979</s>,SELECT COUNT(Building) FROM table_df WHERE CO2_Emission_YTD = '546.34' AND Building > 979
+9,50,50,What is the sum of Maximum_Peak_Energy_Consumption?,370329.6699999999,[370329.67],<pad> SELECT SUM Maximum_Peak_Energy_Consumption FROM table</s>,SELECT SUM(Maximum_Peak_Energy_Consumption) FROM table_df
+10,52,52,Name the building with the highest Maximum_Peak_Energy_Consumption?,Terraces - T7,[4999.4],<pad> SELECT MAX Maximum_Peak_Energy_Consumption FROM table</s>,SELECT MAX(Maximum_Peak_Energy_Consumption) FROM table_df
+11,53,53,Name the building with the lowest Maximum_Peak_Energy_Consumption?,Albury-Wodonga - B8,[3024.44],<pad> SELECT MIN Maximum_Peak_Energy_Consumption FROM table</s>,SELECT MIN(Maximum_Peak_Energy_Consumption) FROM table_df
+12,54,54,Number of buildings more than 4938 of Maximum_Peak_Energy_Consumption?,6,[0],<pad> SELECT COUNT Building FROM table WHERE Maximum_Peak_Energy_Consumption = 4938</s>,SELECT COUNT(Building) FROM table_df WHERE Maximum_Peak_Energy_Consumption = 4938
+13,531,531,What is the Maximum_Peak_Energy_Consumption of the building Library?,3911.4,[4999.4],<pad> SELECT MAX Peak energy consumption FROM table</s>,SELECT MAX(Maximum_Peak_Energy_Consumption) FROM table_df

@@ -1,0 +1,8 @@
+,Unnamed: 0,Unnamed: 0.1,question,answer,predictions
+0,5,5,Which building has lowest Total_Energy_Usage_YTD?,LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh,['LV_Incoming_TER_EMC_Main_Switch_Real_Energy_Into_the_Load_kWh']
+1,25,25,What is the lowest Cost_Difference_with_Baseline?,40056.61,['40056.61']
+2,29,29,Which building has lowest Cost_Difference_with_Baseline?,Terraces - NR7,['Terraces - NR7']
+3,32,32,What is the highest Estimated_Total_Cost?,598967.1,['598967.1']
+4,48,48,What is the highest Maximum_Peak_Energy_Consumption?,4999.4,['4999.4']
+5,52,52,Which building has highest Maximum_Peak_Energy_Consumption?,Terraces - T7,['Terraces - T7']
+6,61,61,What is the CO2_Emission_YTD of LV_Incoming_TER_EH1_Main_Switch_Real_Energy_Into_the_Load_kWh?,826.74,['826.74']

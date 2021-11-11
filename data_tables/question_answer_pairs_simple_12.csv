@@ -1,0 +1,141 @@
+,question,answer
+0,What is the highest Total_Energy_Usage_YTD?,6485326.38
+1,What is the lowest Total_Energy_Usage_YTD?,3370791.68
+2,What is the sum of Total_Energy_Usage_YTD?,63709761.39
+3,What is the average of Total_Energy_Usage_YTD?,5309146.78
+4,What is the building with the highest Total_Energy_Usage_YTD?,Union
+5,What is the building with the lowest Total_Energy_Usage_YTD?,Wildlife Reserve
+6,Number of buildings more than 6368612 of Total_Energy_Usage_YTD?,1
+7,What are the buildings with more than 6368612 of Total_Energy_Usage_YTD?,['Union']
+8,What is the highest Total_Energy_Usage_MTD?,26017.35
+9,What is the lowest Total_Energy_Usage_MTD?,14343.5
+10,What is the sum of Total_Energy_Usage_MTD?,230654.62
+11,What is the average of Total_Energy_Usage_MTD?,19221.22
+12,What is the building with the highest Total_Energy_Usage_MTD?,RLR Building
+13,What is the building with the lowest Total_Energy_Usage_MTD?,Library
+14,Number of buildings more than 25270 of Total_Energy_Usage_MTD?,1
+15,What are the buildings with more than 25270 of Total_Energy_Usage_MTD?,['RLR Building']
+16,What is the highest Total_Energy_Usage_WTD?,11953.11
+17,What is the lowest Total_Energy_Usage_WTD?,4039.28
+18,What is the sum of Total_Energy_Usage_WTD?,106141.55
+19,What is the average of Total_Energy_Usage_WTD?,8845.13
+20,What is the building with the highest Total_Energy_Usage_WTD?,Social Sciences Building
+21,What is the building with the lowest Total_Energy_Usage_WTD?,LIMS2 Building
+22,Number of buildings more than 11800 of Total_Energy_Usage_WTD?,1
+23,What are the buildings with more than 11800 of Total_Energy_Usage_WTD?,['Social Sciences Building']
+24,What is the highest Cost_Difference_with_Baseline?,57084.96
+25,What is the lowest Cost_Difference_with_Baseline?,41397.15
+26,What is the sum of Cost_Difference_with_Baseline?,578398.77
+27,What is the average of Cost_Difference_with_Baseline?,48199.9
+28,What is the building with the highest Cost_Difference_with_Baseline?,Library
+29,What is the building with the lowest Cost_Difference_with_Baseline?,Pathogen Building
+30,Number of buildings more than 54094 of Cost_Difference_with_Baseline?,1
+31,What are the buildings with more than 54094 of Cost_Difference_with_Baseline?,['Library']
+32,What is the highest Estimated_Total_Cost?,577613.37
+33,What is the lowest Estimated_Total_Cost?,316936.34
+34,What is the sum of Estimated_Total_Cost?,5493253.19
+35,What is the average of Estimated_Total_Cost?,457771.1
+36,What is the building with the highest Estimated_Total_Cost?,Union
+37,What is the building with the lowest Estimated_Total_Cost?,RLR Building
+38,Number of buildings more than 553002 of Estimated_Total_Cost?,1
+39,What are the buildings with more than 553002 of Estimated_Total_Cost?,['Union']
+40,What is the highest CO2_Emission_YTD?,938.43
+41,What is the lowest CO2_Emission_YTD?,503.53
+42,What is the sum of CO2_Emission_YTD?,7977.73
+43,What is the average of CO2_Emission_YTD?,664.81
+44,What is the building with the highest CO2_Emission_YTD?,LIMS2 Building
+45,What is the building with the lowest CO2_Emission_YTD?,Wildlife Reserve
+46,Number of buildings more than 932 of CO2_Emission_YTD?,1
+47,What are the buildings with more than 932 of CO2_Emission_YTD?,['LIMS2 Building']
+48,What is the highest Maximum_Peak_Energy_Consumption?,4974.65
+49,What is the lowest Maximum_Peak_Energy_Consumption?,3146.87
+50,What is the sum of Maximum_Peak_Energy_Consumption?,49898.04
+51,What is the average of Maximum_Peak_Energy_Consumption?,4158.17
+52,What is the building with the highest Maximum_Peak_Energy_Consumption?,John Scott Meeting House
+53,What is the building with the lowest Maximum_Peak_Energy_Consumption?,Wildlife Reserve
+54,Number of buildings more than 4954 of Maximum_Peak_Energy_Consumption?,1
+55,What are the buildings with more than 4954 of Maximum_Peak_Energy_Consumption?,['John Scott Meeting House']
+56,What is the Total_Energy_Usage_YTD of John Scott Meeting House?,6273119.56
+57,What is the Total_Energy_Usage_MTD of John Scott Meeting House?,18946.33
+58,What is the Total_Energy_Usage_WTD of John Scott Meeting House?,11676.16
+59,What is the Cost_Difference_with_Baseline of John Scott Meeting House?,50703.44
+60,What is the Estimated_Total_Cost of John Scott Meeting House?,524809.96
+61,What is the CO2_Emission_YTD of John Scott Meeting House?,926.88
+62,What is the Maximum_Peak_Energy_Consumption of John Scott Meeting House?,4974.65
+63,What is the Total_Energy_Usage_YTD of Library?,5366558.93
+64,What is the Total_Energy_Usage_MTD of Library?,14343.5
+65,What is the Total_Energy_Usage_WTD of Library?,9254.44
+66,What is the Cost_Difference_with_Baseline of Library?,57084.96
+67,What is the Estimated_Total_Cost of Library?,362777.05
+68,What is the CO2_Emission_YTD of Library?,505.89
+69,What is the Maximum_Peak_Energy_Consumption of Library?,3911.4
+70,What is the Total_Energy_Usage_YTD of LIMS1?,3715358.6
+71,What is the Total_Energy_Usage_MTD of LIMS1?,15074.48
+72,What is the Total_Energy_Usage_WTD of LIMS1?,7074.47
+73,What is the Cost_Difference_with_Baseline of LIMS1?,46679.24
+74,What is the Estimated_Total_Cost of LIMS1?,476720.68
+75,What is the CO2_Emission_YTD of LIMS1?,577.48
+76,What is the Maximum_Peak_Energy_Consumption of LIMS1?,3415.59
+77,What is the Total_Energy_Usage_YTD of LIMS2 Building?,4938339.75
+78,What is the Total_Energy_Usage_MTD of LIMS2 Building?,18400.2
+79,What is the Total_Energy_Usage_WTD of LIMS2 Building?,4039.28
+80,What is the Cost_Difference_with_Baseline of LIMS2 Building?,50030.22
+81,What is the Estimated_Total_Cost of LIMS2 Building?,532866.21
+82,What is the CO2_Emission_YTD of LIMS2 Building?,938.43
+83,What is the Maximum_Peak_Energy_Consumption of LIMS2 Building?,4348.39
+84,What is the Total_Energy_Usage_YTD of Wildlife Reserve?,3370791.68
+85,What is the Total_Energy_Usage_MTD of Wildlife Reserve?,20318.73
+86,What is the Total_Energy_Usage_WTD of Wildlife Reserve?,11017
+87,What is the Cost_Difference_with_Baseline of Wildlife Reserve?,47574.59
+88,What is the Estimated_Total_Cost of Wildlife Reserve?,324031.33
+89,What is the CO2_Emission_YTD of Wildlife Reserve?,503.53
+90,What is the Maximum_Peak_Energy_Consumption of Wildlife Reserve?,3146.87
+91,What is the Total_Energy_Usage_YTD of Peribolos West Building?,5657967.3
+92,What is the Total_Energy_Usage_MTD of Peribolos West Building?,16306.32
+93,What is the Total_Energy_Usage_WTD of Peribolos West Building?,8121.92
+94,What is the Cost_Difference_with_Baseline of Peribolos West Building?,49467.53
+95,What is the Estimated_Total_Cost of Peribolos West Building?,529838.78
+96,What is the CO2_Emission_YTD of Peribolos West Building?,675.26
+97,What is the Maximum_Peak_Energy_Consumption of Peribolos West Building?,4938.76
+98,What is the Total_Energy_Usage_YTD of RLR Building?,5208297.59
+99,What is the Total_Energy_Usage_MTD of RLR Building?,26017.35
+100,What is the Total_Energy_Usage_WTD of RLR Building?,9583.42
+101,What is the Cost_Difference_with_Baseline of RLR Building?,45893.34
+102,What is the Estimated_Total_Cost of RLR Building?,316936.34
+103,What is the CO2_Emission_YTD of RLR Building?,741.12
+104,What is the Maximum_Peak_Energy_Consumption of RLR Building?,4194.74
+105,What is the Total_Energy_Usage_YTD of Pathogen Building?,5890975.82
+106,What is the Total_Energy_Usage_MTD of Pathogen Building?,18474.72
+107,What is the Total_Energy_Usage_WTD of Pathogen Building?,9812.2
+108,What is the Cost_Difference_with_Baseline of Pathogen Building?,41397.15
+109,What is the Estimated_Total_Cost of Pathogen Building?,474278.68
+110,What is the CO2_Emission_YTD of Pathogen Building?,774.58
+111,What is the Maximum_Peak_Energy_Consumption of Pathogen Building?,3941.94
+112,What is the Total_Energy_Usage_YTD of Social Sciences Building?,5975943.35
+113,What is the Total_Energy_Usage_MTD of Social Sciences Building?,23848.37
+114,What is the Total_Energy_Usage_WTD of Social Sciences Building?,11953.11
+115,What is the Cost_Difference_with_Baseline of Social Sciences Building?,44898.91
+116,What is the Estimated_Total_Cost of Social Sciences Building?,494190.63
+117,What is the CO2_Emission_YTD of Social Sciences Building?,584.86
+118,What is the Maximum_Peak_Energy_Consumption of Social Sciences Building?,4390.99
+119,What is the Total_Energy_Usage_YTD of Sylvia Walton Building?,4618991.34
+120,What is the Total_Energy_Usage_MTD of Sylvia Walton Building?,24660.1
+121,What is the Total_Energy_Usage_WTD of Sylvia Walton Building?,5526.14
+122,What is the Cost_Difference_with_Baseline of Sylvia Walton Building?,44587.4
+123,What is the Estimated_Total_Cost of Sylvia Walton Building?,424143.24
+124,What is the CO2_Emission_YTD of Sylvia Walton Building?,615.63
+125,What is the Maximum_Peak_Energy_Consumption of Sylvia Walton Building?,3846.51
+126,What is the Total_Energy_Usage_YTD of Union?,6485326.38
+127,What is the Total_Energy_Usage_MTD of Union?,17897.08
+128,What is the Total_Energy_Usage_WTD of Union?,10885.98
+129,What is the Cost_Difference_with_Baseline of Union?,51646.93
+130,What is the Estimated_Total_Cost of Union?,577613.37
+131,What is the CO2_Emission_YTD of Union?,587.73
+132,What is the Maximum_Peak_Energy_Consumption of Union?,4772.22
+133,What is the Total_Energy_Usage_YTD of Zoological Reserve?,6208091.09
+134,What is the Total_Energy_Usage_MTD of Zoological Reserve?,16367.44
+135,What is the Total_Energy_Usage_WTD of Zoological Reserve?,7197.43
+136,What is the Cost_Difference_with_Baseline of Zoological Reserve?,48435.06
+137,What is the Estimated_Total_Cost of Zoological Reserve?,455046.92
+138,What is the CO2_Emission_YTD of Zoological Reserve?,546.34
+139,What is the Maximum_Peak_Energy_Consumption of Zoological Reserve?,4015.98
